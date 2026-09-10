@@ -46,3 +46,4 @@ print(f'distance of {x_new} from X_train\n')
 
 for i in range(len(X_train)):
     print(f'{X_train[i]} = {distance[i]}')
+    
