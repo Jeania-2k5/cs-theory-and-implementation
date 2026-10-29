@@ -1,11 +1,12 @@
-# Sem-5
+# cs-theory-and-implementation
+
 
 This repository contains coursework and example programs for compiler design, design and analysis of algorithms, machine learning, numerical and statistical computing, and operating systems.
 
 ## Repository Structure
 
 ```text
-Sem-5/
+cs-theory-and-implementation/
 ├── Compiler_Design/
 │   ├── first()_follow().py
 │   ├── lexical_analysis.py
